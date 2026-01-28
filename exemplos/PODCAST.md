@@ -1,7 +1,7 @@
-# 🎙️ Podcast: Descobrindo IAs Generativas em 5 Minutos 🤖
+# 🎙️ Podcast: Descobrindo IAs Generativas em 3 Minutos 🤖
 
 ## 🧠 Descrição
-Este podcast de aproximadamente **5 minutos** oferece um passeio rápido, porém reflexivo, pelo universo das **Inteligências Artificiais Generativas** e sua influência na tecnologia moderna.
+Este podcast de aproximadamente **3 minutos** oferece um passeio rápido, porém reflexivo, pelo universo das **Inteligências Artificiais Generativas** e sua influência na tecnologia moderna.
 
 O episódio aborda de forma acessível a diferença entre conteúdos criados por humanos e por IA, alinhando-se ao desafio **“Natural ou Fake Natty”** da DIO, com foco em naturalidade, autenticidade e uso consciente da tecnologia.
 
@@ -36,7 +36,7 @@ Esse fluxo reforça a ideia de colaboração entre **inteligência humana e inte
 O resultado é um episódio curto, acessível e reflexivo, que introduz o conceito das IAs Generativas de forma clara, estimulando o pensamento crítico sobre seus limites e possibilidades.
 
 🔗 **Link para o podcast:**  
-[exemplos/audio/ElevenLabs_2026-01-28T23_36_57_Bill - Wise, Mature, Balanced_pre_sp100_s50_sb75_se0_b_m2.mp3]
+[Ouvir o podcast](exemplos/audio/elevenlabs-podcast-natty.mp3)
 
 ---
 
