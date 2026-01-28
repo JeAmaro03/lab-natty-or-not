@@ -36,7 +36,7 @@ Esse fluxo reforça a ideia de colaboração entre **inteligência humana e inte
 O resultado é um episódio curto, acessível e reflexivo, que introduz o conceito das IAs Generativas de forma clara, estimulando o pensamento crítico sobre seus limites e possibilidades.
 
 🔗 **Link para o podcast:**  
-[COLE AQUI O LINK DO SEU PODCAST]
+[exemplos/audio/ElevenLabs_2026-01-28T23_36_57_Bill - Wise, Mature, Balanced_pre_sp100_s50_sb75_se0_b_m2.mp3]
 
 ---
 
