@@ -36,7 +36,7 @@ Esse fluxo reforça a ideia de colaboração entre **inteligência humana e inte
 O resultado é um episódio curto, acessível e reflexivo, que introduz o conceito das IAs Generativas de forma clara, estimulando o pensamento crítico sobre seus limites e possibilidades.
 
 🔗 **Link para o podcast:**  
-[Ouvir o podcast](exemplos/audio/elevenlabs-podcast-natty.mp3)
+[Ouvir o podcast](audio/elevenlabs-podcast-natty.mp3)
 
 ---
 
