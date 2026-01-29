@@ -20,29 +20,47 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Natural ou Fake Natty? Um Podcast sobre IA Generativa ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto foi desenvolvido como parte do desafio "Natural ou Fake Natty: Como Vencer na Era das IAs Generativas" da DIO.
+
+O objetivo do podcast é refletir sobre a diferença entre conteúdos criados por humanos e conteúdos gerados por Inteligência Artificial, analisando o nível de naturalidade, autenticidade e impacto de cada um.
+
+O episódio foi criado utilizando IA Generativa de texto e voz, com curadoria e revisão humana, reforçando o conceito de colaboração entre humano e IA.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT – Criação e estruturação do roteiro
+
+ElevenLabs – Geração de voz sintética (Text-to-Speech)
+
+GitHub – Versionamento e documentação do projeto
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Definição do tema central do podcast: Naturalidade na era da IA
+
+Criação do roteiro com apoio de IA Generativa
+
+Revisão humana do texto para garantir clareza e coerência
+
+Geração do áudio utilizando voz sintética
+
+Organização e documentação do projeto no GitHub
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado é um podcast funcional e acessível, que apresenta de forma clara o impacto das IAs Generativas na criação de conteúdo digital.
+
+O projeto demonstra, na prática, como a IA pode acelerar a produção e melhorar a estrutura do conteúdo, sem substituir a intencionalidade, análise crítica e responsabilidade humana, reforçando o conceito de conteúdo mais natural (“natty”) quando há colaboração entre humano e IA.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Este projeto evidenciou que a Inteligência Artificial é uma ferramenta poderosa para acelerar a criação de conteúdo, inclusive em formatos mais humanos como a voz.
+
+No entanto, a intenção, a mensagem e o senso crítico ainda dependem da intervenção humana. O conteúdo mais natural surge da combinação entre eficiência da IA e consciência humana.
 ```
 
-### Exemplos e Insigths
+### Resultado
 
-- [E-BOOK](/exemplos/E-BOOK.md)
 - [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
